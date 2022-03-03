@@ -61,12 +61,12 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://pbs.twimg.com/media/Ew7dfcPVkAM-W91.jpg" alt="..." />
+                            <img class="card-img-top" src="http://cdn.shopify.com/s/files/1/0102/3351/2032/products/txt_1200x1200.jpg?v=1580814710" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">Chungha Lightstick</h5>
+                                    <h5 class="fw-bolder">TXT Lightstick</h5>
                                                                       <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -76,7 +76,7 @@
                                         <div class="bi-star-fill"></div>
                                     </div>
                                     <!-- Product price-->
-                                    $54.00
+                                    $75.00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -90,12 +90,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://cdn.shopify.com/s/files/1/0069/4203/1983/products/pre-order-nct-official-fanlight-lightstick-610591_2400x.jpg?v=1644934940" alt="..." />
+                            <img class="card-img-top" src="https://media.karousell.com/media/photos/products/2021/3/23/the_boyz_official_light_stick_1616466871_a63d1b73_progressive.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">NCT Lightstick</h5>
+                                    <h5 class="fw-bolder">The Boyz Lightstick</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -106,7 +106,7 @@
                                     </div>
                                     <!-- Product price-->
                                     <span class="text-muted text-decoration-line-through">$72.00</span>
-                                    $50.00
+                                    $67.00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -120,12 +120,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://pbs.twimg.com/media/EgzQYINWsAIEovA.jpg" alt="..." />
+                            <img class="card-img-top" src="http://cdn.shopify.com/s/files/1/0275/3459/0055/products/image_36ed98cd-0326-4194-b8d8-09e04e295a9e_1200x1200.jpg?v=1625501964" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">IU Limited Edition Lightstick</h5>
+                                    <h5 class="fw-bolder">P1HARMONY Lightstick</h5>
                                                                       <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -136,7 +136,7 @@
                                     </div>
                                     <!-- Product price-->
                                     <span class="text-muted text-decoration-line-through">$200.00</span>
-                                    $120.00
+                                    $66.00
                                 </div>
                             </div>
                             <!-- Product actions-->
