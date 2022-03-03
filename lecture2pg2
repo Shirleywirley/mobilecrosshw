@@ -234,12 +234,12 @@
                             <!-- Sale badge-->
                             <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Sale</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://cdn.shopify.com/s/files/1/0325/4101/6201/products/product-image-1467786798_1400x.jpg?v=1596432994" alt="..." />
+                            <img class="card-img-top" src="https://www.kpopusaonline.com/wp-content/uploads/2020/05/1009.png" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">BTS Version 3 Lightstick</h5>
+                                    <h5 class="fw-bolder">A.C.E Lightstick</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
@@ -250,7 +250,7 @@
                                     </div>
                                     <!-- Product price-->
                                     <span class="text-muted text-decoration-line-through">$65.00</span>
-                                    $45.00
+                                    $50.00
                                 </div>
                             </div>
                             <!-- Product actions-->
@@ -262,13 +262,13 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://images-na.ssl-images-amazon.com/images/I/61iwPPURLhL.jpg" alt="..." />
+                            <img class="card-img-top" src="http://cdn.shopify.com/s/files/1/0469/3927/5428/products/nflying-official-light-stick-139306_1200x1200.jpg?v=1626452522" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
                                     <h5 class="fw-bolder"> 
-         Seventeen Version 2 Lightstick</h5>
+         N.Flying Lightstick</h5>
                                     <!-- Product reviews-->
                                     <div class="d-flex justify-content-center small text-warning mb-2">
                                         <div class="bi-star-fill"></div>
