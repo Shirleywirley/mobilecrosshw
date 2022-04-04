@@ -9,12 +9,12 @@ document.getElementById("exo").innerHTML = you;
 var stop = prompt(
   "Now could you kindly tell me your favorite singer? Hey- after you struggled to guess, I'm being nice."
 );
-document.getElementById("idk").innerHTML = stop + ":()";
+document.getElementById("april").innerHTML = stop + ":()";
 
 var nawr = prompt(
   "Alright, I have no idea what I just did, but type whatever. Just do it."
   );
-document.getElementById("um what").innerHTML = her;
+document.getElementById("fools").innerHTML = her;
 
 var ohorat = prompt("So~ would you kindly give me your money???");
 document.getElementById("yes").innerHTML = or;
