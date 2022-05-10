@@ -31,16 +31,16 @@ function draw() {
     ctx.fillRect(0, borderBary, pageWidth, 50);
     ctx.fillRect(0, 50, borderBary, 80);
     ctx.fillRect(0, 400, pageWidth, 80);
-    // Red
+   
     ctx.fillStyle = "rgb(60, 100, 0)";
     ctx.fillRect(borderBarx + 60, 0, pageWidth - borderBarx, borderBary);
-    // Blue
-    ctx.fillStyle = "rgb(0, 0, 255)";
+   
+    ctx.fillStyle = "rgb(69, 3, 200)";
     ctx.fillRect(0, borderBary + 50, borderBarx, borderBary + pageHeight);
-    // Black
+   
     ctx.fillStyle = "rgb(0, 0, 0)";
     ctx.fillRect(1800, borderBary, 60, borderBary + pageHeight);
-    // Black
+
     ctx.fillStyle = "rgb(0, 0, 0)";
     ctx.fillRect(1800, borderBary + 300, pageWidth - borderBary, 60);
    
