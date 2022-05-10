@@ -25,14 +25,14 @@ function draw() {
   if (canvas.getContext) {
     fix_dpi();
     var ctx = canvas.getContext("2d");
-    // Black
+  
     ctx.fillStyle = "rgb(0, 0, 0)";
     ctx.fillRect(borderBarx, 0, 60, pageHeight);
     ctx.fillRect(0, borderBary, pageWidth, 50);
     ctx.fillRect(0, 50, borderBary, 80);
     ctx.fillRect(0, 400, pageWidth, 80);
     // Red
-    ctx.fillStyle = "rgb(255, 100, 0)";
+    ctx.fillStyle = "rgb(60, 100, 0)";
     ctx.fillRect(borderBarx + 60, 0, pageWidth - borderBarx, borderBary);
     // Blue
     ctx.fillStyle = "rgb(0, 0, 255)";
@@ -43,9 +43,8 @@ function draw() {
     // Black
     ctx.fillStyle = "rgb(0, 0, 0)";
     ctx.fillRect(1800, borderBary + 300, pageWidth - borderBary, 60);
-    // Yellow
-    // https://www.rapidtables.com/web/color/RGB_Color.html
-    ctx.fillStyle = "rgb(255, 255, 0)";
+   
+    ctx.fillStyle = "rgb(75, 700, 0)";
     ctx.fillRect(1860, borderBary + 360, borderBarx, borderBary + pageHeight);
   }
 }
