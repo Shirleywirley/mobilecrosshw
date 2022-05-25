@@ -29,7 +29,7 @@ function drawBoxxy() {
 
 
   let something = "yehet";
-  ctx.fillText(, x, y);
+  ctx.fillText(something, x, y);
 
   Square();
   while (x + incrementor > canvas.width || x + incrementor < 0) {
